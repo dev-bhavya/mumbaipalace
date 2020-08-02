@@ -129,7 +129,7 @@ body {
 .our-story-text {
   text-align: center;
   background-color: white;
-  border-radius: 14px;
+  border-radius: 8px;
 }
 
 .story-heading {
@@ -147,7 +147,7 @@ body {
 }
 
 .story-btn {
-  margin-top: 30px;
+  margin: 15px;
   padding: 10px 30px;
   text-align: center;
   font-weight: normal;
@@ -265,4 +265,73 @@ a:hover {
 
 a:active {
   text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1028px) {
+  .display-img {
+    padding-bottom: 10px;
+  }
+
+  .location-div {
+    padding: 20px 10px;
+  }
+
+
+  .features-div {
+    padding: 15px 5px;
+  }
+
+  .features-heading {
+    padding: 8px 5px 5px;
+    margin: auto;
+  }
+
+  .features-img {
+    width: 15%;
+    height: auto;
+    padding: 5px;
+    background-color: yellow;
+    border: 1px solid yellow;
+    border-radius: 100%;
+  }
+
+  .features-para {
+    width: 55%;
+  }
+
+
+  .carousel-inner {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .testimonial-mssg {
+    padding: 5px;
+    font-size: 1.25rem;
+    line-height: 1.25;
+    color: white;
+    width: 60%;
+    margin: auto;
+  }
+
+  .testimonial-img {
+    width: 6%;
+    height: 10%
+  }
+
+  .testimonial-name {
+    font-size: 1.25rem;
+    color: white;
+    padding: 5px;
+  }
+
 }
