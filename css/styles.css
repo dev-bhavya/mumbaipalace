@@ -96,7 +96,12 @@ body {
   line-height: 2;
   color: #666669;
 }
-
+.location-description{
+  width: 60%;
+  margin: 10px auto;
+  color: #666669;
+  line-height: 2;
+}
 .location-header {
   color: #666669;
   font-size: 1.1rem;
@@ -285,6 +290,12 @@ a:active {
     padding: 20px 10px;
   }
 
+  .location-description{
+    width: 90%;
+    margin: 10px auto;
+    color: #666669;
+    line-height: 1.5;
+  }
 
   .features-div {
     padding: 15px 5px;
