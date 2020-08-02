@@ -48,8 +48,6 @@ body {
 
 .title {
   padding: 2% 7%;
-  /* background-repeat: no-repeat;
-  background-size: 100% 100%; */
   background-image: url("https://lh3.googleusercontent.com/proxy/wmptucoWHgUeQc-KLqbZnumzEk7TwV6xwRsGT3vwIdA5Csr1dJ-3GiADHD3XS0BosmXNHfDGQxQmid4yWzC5apJ_RDjaz8K9ZvW28KR1BaszwIvQoVCQ7ccNyzRjN65iSrMZ39wnnwdmRAFvhikaw0MptS1T0aNivaU");
 }
 
@@ -285,6 +283,12 @@ a:active {
   .display-img {
     padding-bottom: 10px;
   }
+
+  .title {
+    padding: 4% 7%;
+    background-image: url("https://lh3.googleusercontent.com/proxy/wmptucoWHgUeQc-KLqbZnumzEk7TwV6xwRsGT3vwIdA5Csr1dJ-3GiADHD3XS0BosmXNHfDGQxQmid4yWzC5apJ_RDjaz8K9ZvW28KR1BaszwIvQoVCQ7ccNyzRjN65iSrMZ39wnnwdmRAFvhikaw0MptS1T0aNivaU");
+  }
+
 
   .location-div {
     padding: 20px 10px;
