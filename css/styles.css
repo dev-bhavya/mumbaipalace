@@ -1,0 +1,268 @@
+body {
+  font-family: 'Proza Libre', sans-serif;
+}
+
+#opening {
+  background-color: #0099ff;
+  margin-top: 0;
+  padding: 0 10%;
+}
+
+/* Navigation */
+.navbar {
+  /* margin: 100%; */
+  padding: 0;
+}
+
+.navbar-brand {
+  font-family: 'Eczar', sans-serif;
+  font-weight: normal;
+  font-size: 2.3rem;
+  color: #fff;
+}
+
+.nav-item {
+  font-size: 1.2rem;
+  margin: 12px;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+/* INTRODUCTION */
+#introduction {
+  text-align: center;
+}
+
+.gatewayofindia-img {
+  width: 100px;
+  height: 100px;
+}
+
+.brand-name {
+  font-size: 4rem;
+  color: #0066ff;
+  font-family: 'Eczar', sans-serif;
+}
+
+.title {
+  padding: 2% 7%;
+  /* background-repeat: no-repeat;
+  background-size: 100% 100%; */
+  background-image: url("https://lh3.googleusercontent.com/proxy/wmptucoWHgUeQc-KLqbZnumzEk7TwV6xwRsGT3vwIdA5Csr1dJ-3GiADHD3XS0BosmXNHfDGQxQmid4yWzC5apJ_RDjaz8K9ZvW28KR1BaszwIvQoVCQ7ccNyzRjN65iSrMZ39wnnwdmRAFvhikaw0MptS1T0aNivaU");
+}
+
+.title-heading {
+  color: #4d4d4d;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.title-text {
+  font-style: italic;
+  font-size: 1.2rem;
+  line-height: 1.3;
+  width: 90%;
+  margin: auto;
+  color: #666669;
+  line-height: 1.3;
+}
+
+#display-img-row {
+  background-color: white;
+  padding: 1% 1%;
+}
+
+.display-img {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+/* LOCATION */
+#location {
+  text-align: center;
+  padding: 7% 10%;
+}
+
+.location-heading {
+  font-size: 2.25rem;
+  padding: 15px;
+}
+
+.location-text {
+  line-height: 2;
+  color: #666669;
+}
+
+.location-header {
+  color: #666669;
+  font-size: 1.1rem;
+}
+
+.location-btn {
+  margin-top: 30px;
+  padding: 10px 30px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 20px;
+  transition-duration: 0.4s;
+  background-color: #fff;
+  border: 1px solid black;
+  color: black;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.1);
+}
+
+.location-btn:hover {
+  background-color: #666669;
+  color: #fff;
+}
+
+/* OUR STORY */
+#our-story {
+  background-color: #0099ff;
+  padding: 3% 15%;
+}
+
+.our-story-text {
+  text-align: center;
+  background-color: white;
+  border-radius: 14px;
+}
+
+.story-heading {
+  color: #26a8ff;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-weight: bolder;
+}
+
+.story-text {
+  padding: 15px;
+  color: grey;
+  width: 70%;
+  margin: auto;
+}
+
+.story-btn {
+  margin-top: 30px;
+  padding: 10px 30px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 20px;
+  transition-duration: 0.4s;
+  background-color: #fff;
+  color: #0099ff;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.story-btn:hover {
+  background-color: #0099ff;
+  color: #fff;
+}
+
+.story-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  margin: 0;
+}
+
+/* FEATURES */
+#features {
+  text-align: center;
+  padding: 7% 10%;
+  background-color: #fff;
+}
+
+.features-img {
+  width: 25%;
+  height: auto;
+  padding: 15px;
+  background-color: yellow;
+  border: 1px solid yellow;
+  border-radius: 100%;
+}
+
+.features-heading {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.features-para {
+  width: 80%;
+  color: grey;
+  font-size: 0.9rem;
+  margin: auto;
+}
+
+/* TESTIMONIALS */
+#testimonials {
+  text-align: center;
+  background-color: #0099ff;
+  /* padding-top: 100px;
+  padding-bottom: 100px; */
+}
+
+.carousel-inner {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.testimonial-mssg {
+  font-size: 2rem;
+  line-height: 1.5;
+  color: white;
+  width: 60%;
+  margin: auto;
+}
+
+.testimonial-name {
+  font-size: 1.25rem;
+  color: white;
+  padding: 15px;
+}
+
+.carousel-indicators {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.testimonial-img {
+  width: 4%;
+  height: 10%
+}
+
+/* FOOTER */
+#footer {
+  text-align: center;
+  padding: 5% 10%;
+}
+
+#footer a {
+  margin: 12px;
+}
+
+a{
+  text-decoration: none;
+  outline: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
