@@ -126,32 +126,31 @@ body {
 /* OUR STORY */
 #our-story {
   background-color: #0099ff;
-  padding: 3% 15%;
+  padding: 20px 20%;
+  text-align: center;
 }
 
 .our-story-text {
-  text-align: center;
-  background-color: white;
-  border-radius: 8px;
 }
 
 .story-heading {
-  color: #26a8ff;
-  padding-top: 40px;
-  padding-bottom: 20px;
+  /* color: #26a8ff; */
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-weight: bolder;
 }
 
 .story-text {
   padding: 15px;
-  color: grey;
+  color: white;
   width: 70%;
   margin: auto;
 }
 
 .story-btn {
-  margin: 15px;
-  padding: 10px 30px;
+  margin: 10px 0 0 0;
+  padding: 6px 20px;
   text-align: center;
   font-weight: normal;
   font-size: 20px;
