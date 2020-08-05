@@ -11,7 +11,7 @@ body {
 /* Navigation */
 .navbar {
   /* margin: 100%; */
-  padding: 0;
+  padding: 10px;
 }
 
 .navbar-brand {
